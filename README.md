@@ -1,5 +1,4 @@
 # Grocery-At-Your-Doorstep
-Project made during training
 
 Please follow these steps to run the project:
 
